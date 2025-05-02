@@ -10,6 +10,6 @@ A lightweight Telegram bot built with the **Telebot** library in Python. This bo
 - 🚀 **Easy to Customize**: Modular code structure for quick modifications.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 
